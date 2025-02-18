@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Python Developer with over 9 years of experience, I specialize in building scalable, efficient, and maintainable software solutions across diverse industries. My expertise spans a range of Python frameworks and technologies, including Django, Flask, FastAPI, and data manipulation libraries such as Pandas and NumPy. With a strong background in both backend development and full-stack solutions, I excel at designing systems that are not only functional but also intuitive and optimized for performance
+I'm Senior Python Developer with over 9 years of experience, specializing in building scalable, efficient, and maintainable software solutions across diverse industries. My expertise spans a range of Python frameworks and technologies, including Django, Flask, FastAPI, and data manipulation libraries such as Pandas and NumPy. With a strong background in both backend development and full-stack solutions, I excel at designing systems that are not only functional but also intuitive and optimized for performance
 
 
 # 💻 Tech Stack:
